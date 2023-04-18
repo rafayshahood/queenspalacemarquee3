@@ -52,6 +52,18 @@
 
 @media only screen and (max-width: 768px) {
 
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding-right: 4%;
+    padding-left: 2%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+  }
+
   .header-logo {
     width: 40px;
     height: 30px;
@@ -66,22 +78,26 @@
   }
 
   .header-logo {
-    margin-right: 0;
+    margin-left: 1%;
     margin-bottom: 10px;
   }
 
   .header-marquee-name {
-    font-size: 60%;
+    font-size: 65%;
     text-align: left;
   }
 
   .header-social-icons {
-    font-size: 24px;
+    font-size: 26px;
     padding-top: 0.1rem;
   }
 
   .header-social-icons a:first-child {
-    margin-right: 0.2rem;
+    margin-right: 0.25rem;
+  }
+
+  .header-social-icons a:last-child {
+    margin-left: 0.25rem;
   }
 
 }

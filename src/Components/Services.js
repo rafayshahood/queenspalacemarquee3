@@ -1,7 +1,7 @@
 import React from 'react';
 import './Styles/Services.css'
 import images from '../imagesUrl.js';
-const { frontDesk, catering, trustdanceFloor, stageDecor, coopEventHallDecor, coopEventLobbyDecor, sweetBar, frontPic, frontPic2, stageDecor2 } = images;
+const { catering, trustdanceFloor, stageDecor } = images;
 
 
 
