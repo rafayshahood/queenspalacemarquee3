@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa00e1d5.css",
-    "main.js": "/static/js/main.e411a672.js",
+    "main.css": "/static/css/main.fdb1462a.css",
+    "main.js": "/static/js/main.5ca76a7d.js",
     "static/js/787.109e96ad.chunk.js": "/static/js/787.109e96ad.chunk.js",
     "static/media/trust&danceFloor.JPG": "/static/media/trust&danceFloor.d7259803340a9a3ca15d.JPG",
     "static/media/stageDecor2.JPG": "/static/media/stageDecor2.9caa47f804d14bb1ffba.JPG",
     "static/media/sweetBar.JPG": "/static/media/sweetBar.30dc733fa2f62f49c17e.JPG",
-    "static/media/chairs.JPG": "/static/media/chairs.09f0ab6fce3e10426115.JPG",
+    "static/media/Chairs.JPG": "/static/media/Chairs.09f0ab6fce3e10426115.JPG",
     "static/media/coopEventHallDecor.JPG": "/static/media/coopEventHallDecor.0d663a1dfc1d6089694e.JPG",
     "static/media/coopEventLobbyDecor.JPG": "/static/media/coopEventLobbyDecor.3ed1f1d63f1e374fe1d9.JPG",
     "static/media/stageDecor.JPG": "/static/media/stageDecor.abc166e776df39979f62.JPG",
@@ -14,12 +14,12 @@
     "static/media/frontDesk.JPG": "/static/media/frontDesk.d7fb56d40ffa3269909a.JPG",
     "static/media/frontPic.JPG": "/static/media/frontPic.333c01444310321787ac.JPG",
     "index.html": "/index.html",
-    "main.aa00e1d5.css.map": "/static/css/main.aa00e1d5.css.map",
-    "main.e411a672.js.map": "/static/js/main.e411a672.js.map",
+    "main.fdb1462a.css.map": "/static/css/main.fdb1462a.css.map",
+    "main.5ca76a7d.js.map": "/static/js/main.5ca76a7d.js.map",
     "787.109e96ad.chunk.js.map": "/static/js/787.109e96ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa00e1d5.css",
-    "static/js/main.e411a672.js"
+    "static/css/main.fdb1462a.css",
+    "static/js/main.5ca76a7d.js"
   ]
 }
