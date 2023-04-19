@@ -63,6 +63,7 @@ function App() {
       allowEsc={true}
       darkMode={true}
       messageDelay={0}
+      notificationSound={true}
       />
       <ImageSlider slides={sliderImages} />
       <Services/>
