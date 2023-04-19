@@ -7,6 +7,7 @@ import Header from './Components/Header';
 import Footer from './Components/Footer'
 import OpenGraph from './Components/OpenGraph';
 import Services from './Components/Services';
+import { FloatingWhatsApp } from 'react-floating-whatsapp'
 const { frontDesk, catering, trustdanceFloor, stageDecor, coopEventHallDecor, coopEventLobbyDecor, sweetBar, frontPic2, stageDecor2 } = images;
 
 
@@ -54,6 +55,14 @@ function App() {
     <div className="App">
       <OpenGraph img={frontDesk}/>
       <Header/>
+      <FloatingWhatsApp 
+      phoneNumber='03318667755' 
+      accountName="Queens Palace Marquee" 
+      avatar={frontDesk} 
+      allowClickAway={true}
+      allowEsc={true}
+      darkMode={true}
+      />
       <ImageSlider slides={sliderImages} />
       <Services/>
       <Map/>
