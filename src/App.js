@@ -62,6 +62,7 @@ function App() {
       allowClickAway={true}
       allowEsc={true}
       darkMode={true}
+      messageDelay={0}
       />
       <ImageSlider slides={sliderImages} />
       <Services/>
